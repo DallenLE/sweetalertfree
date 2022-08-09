@@ -2,7 +2,7 @@
   <img src="./assets/swal2-logo.png" width="498" alt="SweetAlert2">
 </a>
 
-Freedom Fork
+# Freedom Fork
 
 A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement <br> for JavaScript's popup boxes. Zero dependencies.
 
